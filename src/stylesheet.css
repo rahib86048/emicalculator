@@ -1,0 +1,12 @@
+@media screen and (max-width:560px){
+    #rangehide{
+        display: none;
+    }
+    .row .col {
+        margin-top: 40px;
+    }
+}
+#rowid{
+       font-weight: bold;
+       
+}
